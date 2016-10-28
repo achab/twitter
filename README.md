@@ -1,4 +1,4 @@
-# whma4twitter
+# twitter
 ## references
 https://github.com/tweepy/examples
 
